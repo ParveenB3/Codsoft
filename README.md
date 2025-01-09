@@ -97,4 +97,3 @@ This program generates secure passwords based on the user's chosen strength and 
 -Clipboard Handling: Learned to copy text to the clipboard using the pyperclip library.
 -Password Strength Evaluation: Developed logic to evaluate and classify password strength as weak, strong, or very strong.
 -File Handling: Gained experience in saving data (passwords) to a file.
----
